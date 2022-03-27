@@ -1,0 +1,13 @@
+.cont-img{
+  display:grid;
+  background-color: brown;
+  justify-content: center;
+  
+}
+
+.prueba{
+  height: auto;
+  width: 100%;
+}
+
+
